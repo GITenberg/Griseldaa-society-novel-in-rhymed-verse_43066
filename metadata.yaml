@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7229
     wikipedia: http://en.wikipedia.org/wiki/Wilfrid_Scawen_Blunt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43066#Griseldaa-society-novel-in-rhymed-verse
 gutenberg_issued: '2013-06-30'
 gutenberg_type: Text
 identifiers:
